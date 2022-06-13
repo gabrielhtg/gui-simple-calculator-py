@@ -7,6 +7,7 @@ Ini adalah program yang dibuat dengan bahasa pemrograman Python serta module tki
  - Perkalian
 
 ![ss](Screenshot%20from%202022-06-13%2011-44-45.png)
+![calc](Screenshot%20from%202022-06-13%2011-48-42.png)
 
 ## <b>About Me</b>
 

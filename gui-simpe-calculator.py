@@ -19,7 +19,7 @@ def samadengan():
 # Desain UI
 
 layar = Entry(root, width=43, borderwidth=5, bg="#454545", fg='white', font=('FiraMono', 12))
-layar.grid(row=0, column=0, columnspan=4, pady=10, ipady=10)
+layar.grid(row=0, column=0, columnspan=4, pady=10, ipady=10, padx=10)
 
 tombol1 = Button(root, width=7, height=2, text="1", command=lambda: myclick(1), bg="#454545", fg="white", font=('FiraMono', 12))
 tombol2 = Button(root, width=7, height=2, text="2", command=lambda: myclick(2), bg="#454545", fg="white", font=('FiraMono', 12))
